@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: 2018-05-15T12:36:08.2660094+01:00
+entries:
+  test:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-05-15T12:54:02.1925683+01:00
+    description: A Helm chart for Kubernetes
+    digest: 0403d7271f039c10678aacb09d10be05636bc9a09cc5f6d6d5fbed414c950381
+    name: test
+    urls:
+    - test-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-05-15T12:54:02.1906028+01:00
